@@ -1,0 +1,10 @@
+version=1
+id=2356478970
+title=Profession/Traits Save Input Fix
+description=(Made with Build 41)
+description=
+description=This mod makes the Profession/Traits presets Save feature default to the selected preset/build rather than be blank.
+description=
+description=Overrides the function 'CharacterCreationProfession:saveBuildStep1()'
+tags=
+visibility=public
